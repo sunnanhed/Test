@@ -4,6 +4,7 @@ public class Odds {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		for(;;) {
+			//This is a comment
 		System.out.println("What do u want to do?: ");
 		System.out.println("1: Calculate odds\n2: Exit program");
 		int choice = sc.nextInt();
